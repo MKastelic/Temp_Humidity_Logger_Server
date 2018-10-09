@@ -1,5 +1,6 @@
 import machine
 import time
+import utime
 import dht
 from ntptime import settime
 import network
